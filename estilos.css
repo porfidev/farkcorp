@@ -1,0 +1,230 @@
+@charset "UTF-8";
+
+/* ESTRUCTURA GENERAL */
+
+body {
+	text-align:center;
+	margin-top: 0px;
+}
+
+#wrap { margin:0 auto 0 auto;
+		width:800px;
+}
+
+#header {
+	background-image: url(imagenes/header.png);
+	height: 249px;	
+}
+
+#menu {
+	height: 50px;
+	background-image: url(imagenes/bg_menu.png);
+	background-repeat: repeat-x;
+}
+
+/* Elementos del Menú */
+
+#navi {
+	list-style: none;
+	margin-top: -20px;
+}
+#navi li {
+	float: left;
+	margin-top: 0px;
+	margin-right: 20px;
+	margin-bottom: 0px;
+	margin-left: 20px;
+}
+#navi li a {
+	display:block;
+	font-size: 1.13em;
+	color:#FFFFFF;
+	text-decoration: none;
+	font-family: Arial, Helvetica, sans-serif;
+	text-transform: uppercase;
+	padding-top: 12px;
+	padding-right: 20px;
+	padding-bottom: 14px;
+	padding-left: 20px;
+	border-top-width: 2px;
+	border-top-style: solid;
+	border-top-color: #2541C0;
+	text-shadow: #2541C0 0.1em 0.1em 0.1em;
+}
+
+#navi li a:hover {
+	color:#FFF;
+	border-top-color: #FFF;
+	background-image: url(imagenes/bg_opcion_menu.png);
+	background-repeat: repeat-x;
+	
+}
+
+/* index.html */
+
+#intro {
+	background-image:url(imagenes/farkcorp_intro.png);
+	height: 567px;
+	border-top-width: 10px;
+	border-top-style: solid;
+	border-top-color: #006EE0;
+}
+
+#botones {
+	margin-top: 450px;
+	float: left;
+	font-family: Arial, Helvetica, sans-serif;
+	text-transform: uppercase;
+}
+
+#ingles a {
+	width: 136px;
+	height: 18px;
+	display:block;
+	margin-left: 222px;
+	border-bottom-width: 4px;
+	border-bottom-style: solid;
+	border-bottom-color: #006EE0;
+	text-decoration: none;
+	color: #006EE0;
+}
+	
+#ingles a:hover {
+	background: url(imagenes/boton_intro_azul.png);
+	width: 136px;
+	height: 18px; 
+    display: block;
+}
+
+#espanol a {
+	width: 136px;
+	height: 18px;
+	display:block;
+	margin-left: 462px;
+	margin-top: -18px;
+	border-bottom-width: 4px;
+	border-bottom-style: solid;
+	border-bottom-color: #CA0A16;
+	color: #CA0A16;
+	text-decoration: none;
+}
+	
+#espanol a:hover {
+	background: url(imagenes/boton_intro_rojo.png);
+	width: 136px;
+	height: 18px; 
+    display: block;
+}
+
+/* Elementos Contenido */
+
+#contenido {
+	background-image: url(imagenes/bg_contenido.png);
+	padding-top: 30px;
+	padding-left: 30px;
+	background-repeat: repeat-x;
+	padding-right: 30px;
+}
+p {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	color: #0040BF;
+	font-size: 0.88em;
+	font-style: italic;
+}
+
+#footer {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 0.75em;
+	color: #003FBF;
+}
+#prod li {
+	list-style-type: none;
+	font-family: Arial, Helvetica, sans-serif;
+	color: #003FBF;
+	display: block;
+	margin-top: 0.2em;
+	text-align: left;
+	text-indent: 0.3em;
+	padding-left: 4px;
+}
+#prod li a {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 0.8em;
+	text-decoration: none;
+	color: #003FBF;
+	display: block;
+	margin-top: 0.2em;
+	text-align: left;
+	text-indent: 0.3em;
+}
+#prod li a:hover {
+	font-size: 0.8em;
+	color: #0788FF;
+	display: block;
+	margin-top: 0.2em;
+	text-align: left;
+	text-indent: 0.3em;
+	padding-left: 4px;
+	border-left-width: 4px;
+	border-left-style: solid;
+}
+#prod ul {
+	margin-left: -1.2em;
+}
+#catalogo {
+	height: 500px;
+	width: 500px;
+	overflow: scroll;
+	font-family: Arial, Helvetica, sans-serif;
+	color: #003FBF;
+}
+
+a:link {
+	color: #09F;
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+	color: #09F;
+}
+a:hover {
+	text-decoration: none;
+	color: #C51C13;
+}
+a:active {
+	text-decoration: none;
+}
+.rojo {
+	background-color: #FFECEC;
+	border: 1px solid #E83131;
+}
+.azul {
+	background-color: #E4F1FC;
+	border: 1px solid #3055D6;
+}
+.formulario_texto {
+	height: 23px;
+	width: 150px;
+	background-image: url(imagenes/fondo_texto.gif);
+	background-repeat: no-repeat;
+	border: 1px solid #A5C9FF;
+}
+.formulario_comentarios {
+	background-image: url(imagenes/fondo_comentarios.gif);
+	word-spacing: normal;
+	width: 250px;
+	height: 99px;
+	border: 1px solid #A5C9FF;
+}
+.formulario_boton {
+	background-image: url(imagenes/fondo_boton.png);
+	height: 24px;
+	width: 94px;
+	border: 1px solid #FD7478;
+}
+label {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	color: #0058D3;
+	font-weight: bolder;
+	letter-spacing: -1px;
+}
