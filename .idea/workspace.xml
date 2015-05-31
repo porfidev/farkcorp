@@ -1,9 +1,80 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3605ecc0-11d7-46f5-ae13-cc24bb9b07c3" name="Default" comment="" />
+    <list default="true" id="3605ecc0-11d7-46f5-ae13-cc24bb9b07c3" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalogo.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/farcorp.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/farkcorp.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/directives/footer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/directives/footer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/indexx.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/inicio.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/directives/navbar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/directives/navegacion.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/quienessomos.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/routes.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/estilos.css" afterPath="$PROJECT_DIR$/css/estilos.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/imagenes/b_catalogo.png" afterPath="$PROJECT_DIR$/img/b_catalogo.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/imagenes/b_contacto.png" afterPath="$PROJECT_DIR$/img/b_contacto.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/imagenes/b_quienessomos.png" afterPath="$PROJECT_DIR$/img/b_quienessomos.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/imagenes/bg_contenido.png" afterPath="$PROJECT_DIR$/img/bg_contenido.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/imagenes/bg_menu.png" afterPath="$PROJECT_DIR$/img/bg_menu.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/imagenes/bg_opcion_menu.png" afterPath="$PROJECT_DIR$/img/bg_opcion_menu.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/imagenes/bienvenidos.png" afterPath="$PROJECT_DIR$/img/bienvenidos.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/imagenes/boton_intro_azul.png" afterPath="$PROJECT_DIR$/img/boton_intro_azul.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/imagenes/boton_intro_rojo.png" afterPath="$PROJECT_DIR$/img/boton_intro_rojo.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/imagenes/farkcorp_intro.png" afterPath="$PROJECT_DIR$/img/farkcorp_intro.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/imagenes/farkcorp_logo.png" afterPath="$PROJECT_DIR$/img/farkcorp_logo.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/imagenes/fondo_boton.png" afterPath="$PROJECT_DIR$/img/fondo_boton.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/imagenes/fondo_comentarios.gif" afterPath="$PROJECT_DIR$/img/fondo_comentarios.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/imagenes/fondo_texto.gif" afterPath="$PROJECT_DIR$/img/fondo_texto.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/imagenes/foto01.png" afterPath="$PROJECT_DIR$/img/foto01.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/imagenes/h_bienvenidos.png" afterPath="$PROJECT_DIR$/img/h_bienvenidos.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/imagenes/h_contactanos.png" afterPath="$PROJECT_DIR$/img/h_contactanos.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/imagenes/h_mision_vision.png" afterPath="$PROJECT_DIR$/img/h_mision_vision.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/imagenes/h_productos.png" afterPath="$PROJECT_DIR$/img/h_productos.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/imagenes/h_quienes_somos.png" afterPath="$PROJECT_DIR$/img/h_quienes_somos.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/imagenes/header.png" afterPath="$PROJECT_DIR$/img/header.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/imagenes/productos/aditivos.png" afterPath="$PROJECT_DIR$/img/productos/aditivos.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/imagenes/productos/aminoglucosidos.png" afterPath="$PROJECT_DIR$/img/productos/aminoglucosidos.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/imagenes/productos/analgesicos.png" afterPath="$PROJECT_DIR$/img/productos/analgesicos.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/imagenes/productos/antiasmaticos.png" afterPath="$PROJECT_DIR$/img/productos/antiasmaticos.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/imagenes/productos/antibacterianos.png" afterPath="$PROJECT_DIR$/img/productos/antibacterianos.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/imagenes/productos/antibioticos.png" afterPath="$PROJECT_DIR$/img/productos/antibioticos.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/imagenes/productos/antidiabeticos.png" afterPath="$PROJECT_DIR$/img/productos/antidiabeticos.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/imagenes/productos/antifungicos.png" afterPath="$PROJECT_DIR$/img/productos/antifungicos.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/imagenes/productos/antimetabolicos.png" afterPath="$PROJECT_DIR$/img/productos/antimetabolicos.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/imagenes/productos/antiprotozoarios.png" afterPath="$PROJECT_DIR$/img/productos/antiprotozoarios.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/imagenes/productos/antituberculosos.png" afterPath="$PROJECT_DIR$/img/productos/antituberculosos.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/imagenes/productos/antitusivos.png" afterPath="$PROJECT_DIR$/img/productos/antitusivos.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/imagenes/productos/antivirales.png" afterPath="$PROJECT_DIR$/img/productos/antivirales.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/imagenes/productos/atilhelminticos.png" afterPath="$PROJECT_DIR$/img/productos/atilhelminticos.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/imagenes/productos/cardiovasculares.png" afterPath="$PROJECT_DIR$/img/productos/cardiovasculares.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/imagenes/productos/cefalosporinas.png" afterPath="$PROJECT_DIR$/img/productos/cefalosporinas.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/imagenes/productos/corticoesteroides.png" afterPath="$PROJECT_DIR$/img/productos/corticoesteroides.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/imagenes/productos/expectorantes.png" afterPath="$PROJECT_DIR$/img/productos/expectorantes.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/imagenes/productos/gastrointestinales.png" afterPath="$PROJECT_DIR$/img/productos/gastrointestinales.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/imagenes/productos/hormonales.png" afterPath="$PROJECT_DIR$/img/productos/hormonales.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/imagenes/productos/macrolidos.png" afterPath="$PROJECT_DIR$/img/productos/macrolidos.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/imagenes/productos/oncologicos.png" afterPath="$PROJECT_DIR$/img/productos/oncologicos.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/imagenes/productos/otros.png" afterPath="$PROJECT_DIR$/img/productos/otros.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/imagenes/productos/quinolonas.png" afterPath="$PROJECT_DIR$/img/productos/quinolonas.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/imagenes/productos/sulfonamidas.png" afterPath="$PROJECT_DIR$/img/productos/sulfonamidas.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/imagenes/productos/tetraciclinas.png" afterPath="$PROJECT_DIR$/img/productos/tetraciclinas.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/imagenes/productos/vitaminas.png" afterPath="$PROJECT_DIR$/img/productos/vitaminas.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/imagenes/ubicacion.png" afterPath="$PROJECT_DIR$/img/ubicacion.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/imagenes/usuarios.png" afterPath="$PROJECT_DIR$/img/usuarios.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower.json" afterPath="$PROJECT_DIR$/bower.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/es/catalogo.html" afterPath="$PROJECT_DIR$/es/catalogo.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/es/contacto.html" afterPath="$PROJECT_DIR$/es/contacto.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/es/inicio.html" afterPath="$PROJECT_DIR$/es/inicio.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/es/quienes_somos.html" afterPath="$PROJECT_DIR$/es/quienes_somos.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="farkcorp.iws" />
     <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,17 +93,111 @@
   <component name="FavoritesManager">
     <favorites_list name="farkcorp" />
   </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="routes.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/routes.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="270">
+              <caret line="14" column="2" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
+              <folding>
+                <element signature="e#0#45#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="quienessomos.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/quienessomos.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-5.0" vertical-offset="0" max-vertical-offset="465">
+              <caret line="8" column="41" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="catalogo.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/es/catalogo.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="71.708336" vertical-offset="7496" max-vertical-offset="14880">
+              <caret line="367" column="36" selection-start-line="367" selection-start-column="36" selection-end-line="367" selection-end-column="36" />
+              <caret line="368" column="18" selection-start-line="368" selection-start-column="18" selection-end-line="368" selection-end-column="18" />
+              <caret line="369" column="36" selection-start-line="369" selection-start-column="36" selection-end-line="369" selection-end-column="36" />
+              <caret line="370" column="19" selection-start-line="370" selection-start-column="19" selection-end-line="370" selection-end-column="19" />
+              <caret line="371" column="18" selection-start-line="371" selection-start-column="18" selection-end-line="371" selection-end-column="18" />
+              <caret line="372" column="36" selection-start-line="372" selection-start-column="36" selection-end-line="372" selection-end-column="36" />
+              <caret line="373" column="19" selection-start-line="373" selection-start-column="19" selection-end-line="373" selection-end-column="19" />
+              <caret line="374" column="20" selection-start-line="374" selection-start-column="20" selection-end-line="374" selection-end-column="20" />
+              <caret line="375" column="24" selection-start-line="375" selection-start-column="24" selection-end-line="375" selection-end-column="24" />
+              <caret line="376" column="36" selection-start-line="376" selection-start-column="36" selection-end-line="376" selection-end-column="36" />
+              <caret line="377" column="18" selection-start-line="377" selection-start-column="18" selection-end-line="377" selection-end-column="18" />
+              <caret line="378" column="36" selection-start-line="378" selection-start-column="36" selection-end-line="378" selection-end-column="36" />
+              <caret line="379" column="19" selection-start-line="379" selection-start-column="19" selection-end-line="379" selection-end-column="19" />
+              <caret line="380" column="18" selection-start-line="380" selection-start-column="18" selection-end-line="380" selection-end-column="18" />
+              <caret line="381" column="36" selection-start-line="381" selection-start-column="36" selection-end-line="381" selection-end-column="36" />
+              <caret line="382" column="19" selection-start-line="382" selection-start-column="19" selection-end-line="382" selection-end-column="19" />
+              <caret line="383" column="18" selection-start-line="383" selection-start-column="18" selection-end-line="383" selection-end-column="18" />
+              <caret line="384" column="36" selection-start-line="384" selection-start-column="36" selection-end-line="384" selection-end-column="36" />
+              <caret line="385" column="19" selection-start-line="385" selection-start-column="19" selection-end-line="385" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="catalogo.json" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/catalogo.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.5039909" vertical-offset="5108" max-vertical-offset="5985">
+              <caret line="370" column="18" selection-start-line="370" selection-start-column="18" selection-end-line="370" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bower.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bower.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="435">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/js/index_.html" />
+        <option value="$PROJECT_DIR$/es/inicio.html" />
+        <option value="$PROJECT_DIR$/js/farkcorp.js" />
+        <option value="$PROJECT_DIR$/templates/navegacion.html" />
+        <option value="$PROJECT_DIR$/js/directives/navbar.js" />
+        <option value="$PROJECT_DIR$/css/farcorp.css" />
+        <option value="$PROJECT_DIR$/templates/footer.html" />
+        <option value="$PROJECT_DIR$/js/directives/footer.js" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/js/routes.js" />
+        <option value="$PROJECT_DIR$/templates/inicio.html" />
+        <option value="$PROJECT_DIR$/templates/quienessomos.html" />
+        <option value="$PROJECT_DIR$/es/catalogo.html" />
+        <option value="$PROJECT_DIR$/catalogo.json" />
+      </list>
+    </option>
   </component>
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="903" />
-    <option name="y" value="280" />
-    <option name="width" value="1425" />
+    <option name="x" value="931" />
+    <option name="y" value="195" />
+    <option name="width" value="1347" />
     <option name="height" value="998" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -76,6 +241,98 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="farkcorp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="farkcorp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="farkcorp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="farkcorp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="directives" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="farkcorp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="farkcorp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="farkcorp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="farkcorp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="directives" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="farkcorp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="farkcorp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="es" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="farkcorp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="farkcorp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -84,6 +341,17 @@
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
+    <property name="FullScreen" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="LayoutCode.rearrangeEntriesHTML" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/templates/directives" />
+      <recent name="$PROJECT_DIR$/css" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
@@ -100,15 +368,24 @@
       <BehatRunner />
       <method />
     </configuration>
-    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
       <method />
     </configuration>
-    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
       <method />
     </configuration>
     <list size="0" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="3605ecc0-11d7-46f5-ae13-cc24bb9b07c3" name="Default" comment="" />
@@ -119,28 +396,28 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="903" y="280" width="1425" height="998" extended-state="0" />
-    <editor active="false" />
+    <frame x="931" y="195" width="1347" height="998" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24982457" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26429102" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32938644" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -162,5 +439,223 @@
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="570" max-vertical-offset="1035">
+          <caret line="38" column="5" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/farkcorp.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="45" max-vertical-offset="135">
+          <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+          <folding>
+            <element signature="e#0#45#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/indexx.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="375">
+          <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="345">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/routes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="225">
+          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#45#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="100">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3953186" vertical-offset="266" max-vertical-offset="1035">
+          <caret line="38" column="5" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/indexx.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.085518815" vertical-offset="0" max-vertical-offset="877">
+          <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/farcorp.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.34961155" vertical-offset="0" max-vertical-offset="901">
+          <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/farkcorp.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="135">
+          <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+          <folding>
+            <element signature="e#0#45#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/directives/navegacion.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2951389" vertical-offset="0" max-vertical-offset="864">
+          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/directives/footer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3249715" vertical-offset="0" max-vertical-offset="877">
+          <caret line="19" column="6" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/directives/navbar.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.01664817" vertical-offset="0" max-vertical-offset="901">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="10" selection-end-column="7" />
+          <folding>
+            <element signature="e#0#45#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/directives/footer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.03329634" vertical-offset="0" max-vertical-offset="901">
+          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#45#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3554007" vertical-offset="0" max-vertical-offset="861">
+          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/es/inicio.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3298611" vertical-offset="0" max-vertical-offset="864">
+          <caret line="19" column="2" selection-start-line="19" selection-start-column="2" selection-end-line="39" selection-end-column="8" />
+          <folding>
+            <element signature="n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/inicio.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="525">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="28" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/routes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="270">
+          <caret line="14" column="2" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
+          <folding>
+            <element signature="e#0#45#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/es/quienes_somos.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6076389" vertical-offset="0" max-vertical-offset="885">
+          <caret line="35" column="64" selection-start-line="35" selection-start-column="8" selection-end-line="35" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/quienessomos.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.0" vertical-offset="0" max-vertical-offset="465">
+          <caret line="8" column="41" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/es/catalogo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="71.708336" vertical-offset="7496" max-vertical-offset="14880">
+          <caret line="367" column="36" selection-start-line="367" selection-start-column="36" selection-end-line="367" selection-end-column="36" />
+          <caret line="368" column="18" selection-start-line="368" selection-start-column="18" selection-end-line="368" selection-end-column="18" />
+          <caret line="369" column="36" selection-start-line="369" selection-start-column="36" selection-end-line="369" selection-end-column="36" />
+          <caret line="370" column="19" selection-start-line="370" selection-start-column="19" selection-end-line="370" selection-end-column="19" />
+          <caret line="371" column="18" selection-start-line="371" selection-start-column="18" selection-end-line="371" selection-end-column="18" />
+          <caret line="372" column="36" selection-start-line="372" selection-start-column="36" selection-end-line="372" selection-end-column="36" />
+          <caret line="373" column="19" selection-start-line="373" selection-start-column="19" selection-end-line="373" selection-end-column="19" />
+          <caret line="374" column="20" selection-start-line="374" selection-start-column="20" selection-end-line="374" selection-end-column="20" />
+          <caret line="375" column="24" selection-start-line="375" selection-start-column="24" selection-end-line="375" selection-end-column="24" />
+          <caret line="376" column="36" selection-start-line="376" selection-start-column="36" selection-end-line="376" selection-end-column="36" />
+          <caret line="377" column="18" selection-start-line="377" selection-start-column="18" selection-end-line="377" selection-end-column="18" />
+          <caret line="378" column="36" selection-start-line="378" selection-start-column="36" selection-end-line="378" selection-end-column="36" />
+          <caret line="379" column="19" selection-start-line="379" selection-start-column="19" selection-end-line="379" selection-end-column="19" />
+          <caret line="380" column="18" selection-start-line="380" selection-start-column="18" selection-end-line="380" selection-end-column="18" />
+          <caret line="381" column="36" selection-start-line="381" selection-start-column="36" selection-end-line="381" selection-end-column="36" />
+          <caret line="382" column="19" selection-start-line="382" selection-start-column="19" selection-end-line="382" selection-end-column="19" />
+          <caret line="383" column="18" selection-start-line="383" selection-start-column="18" selection-end-line="383" selection-end-column="18" />
+          <caret line="384" column="36" selection-start-line="384" selection-start-column="36" selection-end-line="384" selection-end-column="36" />
+          <caret line="385" column="19" selection-start-line="385" selection-start-column="19" selection-end-line="385" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="901">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalogo.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5039909" vertical-offset="5108" max-vertical-offset="5985">
+          <caret line="370" column="18" selection-start-line="370" selection-start-column="18" selection-end-line="370" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
