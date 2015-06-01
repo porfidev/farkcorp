@@ -1,0 +1,23 @@
+<div class="contenido container">
+    <div class="row">
+        <div class="col-sm-3">
+            <img src="img/h_productos.png" width="180" height="36" />
+            <ul>
+                <li ng-repeat="(index, catalogo) in CatalogCtrl.catalos">
+                    <a href="" ng-click="CatalogCtrl.select(index)">
+                        {{catalogo.familia}}
+                    </a>
+
+                </li>
+            </ul>
+        </div>
+        <div class="col-sm-9">
+            <h2>{{CatalogCtrl.selected.title}}</h2>
+            <ul>
+                <li ng-repeat="producto in CatalogCtrl.selected">
+                    {{producto}}
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>

@@ -1,393 +1,388 @@
-{
-  "catalogo": [
-    {
-      "familia": "ANTIPROTOZOARIOS",
-      "productos": [
-        "3-5 Dinitro ortotulaumida (DOT)",
-        "Amprolium clorhidrato",
-        "Benzoil metronidazol",
-        "Clopidol",
-        "Dimetridazol Base",
-        "Diminazem Dia ceturato",
-        "Diyodohidroxiquinoleina",
-        "Furazolidona",
-        "Metronidazol",
-        "Nicarbazina",
-        "Robenidina Clorhidrato"
-      ]
-    },
-    {
-      "familia": "AMINOGLUCOSIDOS",
-      "productos": [
-        "Dihidroestreptomicina",
-        "Sulfato estéril",
-        "Espectinomicina",
-        "Espectinomicina sulfato estéril",
-        "Gentamicina sulfato estéril",
-        "Kanamicina monosulfato oral",
-        "Neomicina sulfato oral"
-      ]
-    },
-    {
-      "familia": "ANALGÉSICOS",
-      "productos": [
-        "Acido Acetilsalicilico",
-        "Bumadizona Cálcica",
-        "Diclofenaco Dietilamonio",
-        "Diclofenaco Potásico",
-        "Diclofenaco Sódico",
-        "Dipirona Sódica",
-        "Fenil-butasona base",
-        "Ibuprofeno",
-        "Ketoprofeno",
-        "Ketorolaco Thrometamine",
-        "Meloxicam",
-        "Naproxeno base",
-        "Naproxeno sódio",
-        "N-Butilbromuro de hiosina",
-        "Paracetamol polvo",
-        "Paracetamol CD 90",
-        "Tramadol"
-      ]
-    },
-    {
-      "familia": "ANTIASMÁTICOS",
-      "productos": [
-        "Fenoterol",
-        "Salbumatol sulfato",
-      ]
-    },
-    {
-      "familia": "ANTIBACTERIANOS",
-      "productos": [
-        "Cloramfenicol hemisuccinato ácido",
-        "Cloramfenicol palmitato",
-        "Florfenicol",
-        "Tlamfenicol"
-      ]
-    },
-    {
-      "familia": "ANTIBIÓTICOS",
-      "productos": [
-        "Amikacina Sulfato estéril",
-        "Amoxiclina Trihidratada",
-        "Ampicilina Sódica",
-        "Ampicilina Trihidratada",
-        "Cloxacilina",
-        "Dicloacilina",
-        "Doxiciclina Iclato",
-        "Fosfomicinas",
-        "Lincomicina Clorhidrato",
-        "Penicilina G Potasica",
-        "Penicilina G Procaina",
-        "Penicilina G Sodica"
-      ]
-    },
-    {
-      "familia": "ANTIDIABÉTICOS",
-      "productos": [
-        "Clorpropamida",
-        "Glibenclamida",
-        "Glicazide",
-        "Glipzida",
-        "Metformin Clorhidrato",
-        "Tolbutamida"
-      ]
-    },
-    {
-      "familia": "ANTIFUNGICOS",
-      "productos": [
-        "Crotimazol",
-        "Fluconazol",
-        "Itraconazol",
-        "Ketoconazol",
-        "Tolnaftato"
-      ]
-    },
-    {
-      "familia": "ATIHELMINTICOS",
-      "productos": [
-        "Abamectina",
-        "Albendazol",
-        "Closantel Sódico",
-        "Fenbendazol",
-        "Ivermectina",
-        "Levamisol base",
-        "Levamisol clorhidrato",
-        "Levamisol fosfato",
-        "Mebendazol",
-        "Oxfendazol",
-        "Oxibendazol",
-        "Praziquantel",
-        "Quinfamida",
-        "Triciabendazol"
-      ]
-    },
-    {
-      "familia": "ANTIMETABOLICOS",
-      "productos": [
-        "Alopurinol"
-      ]
-    },
-    {
-      "familia": "ANTITUBERCULOSOS",
-      "productos": [
-        "Etambutol Hcl",
-        "Isoniazida",
-        "Pirazidamida",
-        "Rifampicina",
-      ]
-    },
-    {
-      "familia": "ANTITUSIVOS",
-      "productos": [
-        "Benzonatato"
-      ]
-    },
-    {
-      "familia": "ANTIVIRALES",
-      "productos": [
-        "Aciclovir",
-        "Indinavir",
-        "Lamivudina",
-        "Ritonavir",
-        "Sequinavir",
-        "Zidovudina"
-      ]
-    },
-    {
-      "familia": "CARDIOVASCULARES",
-      "productos": [
-        "Alfa-metildopa",
-        "Captorpil",
-        "Diltiazem",
-        "Enalapril Maleato",
-        "Lisinopril",
-        "Nifedipino",
-        "Pentoxifilina",
-        "Verapamilo Hcl"
-      ]
-    },
-    {
-      "familia": "CEFALOSPORINAS",
-      "productos": [
-        "Cefaclor",
-        "Cefadroxil",
-        "Cefalexina Monohidrato",
-        "Cefixima",
-        "Cefotaxima Ácida",
-        "Cefotaxima Sódica",
-        "Ceftazidima",
-        "Ceftlofur Clorhidrato",
-        "Ceftlofur Sódico",
-        "Ceftriaxona Sódica"
-      ]
-    },
-    {
-      "familia": "CORTICOESTEROIDES",
-      "productos": [
-        "Betametasona Dipropionato",
-        "Betametasona Valerato",
-        "Dexametasona Sódica",
-        "Hidrocortisona Acetato",
-        "Hidrocortisona Succinato",
-        "Prednisona Base"
-      ]
-    },
-    {
-      "familia": "EXPECTORANTES",
-      "productos": [
-        "Ambroxol Clorhidrato",
-        "Bromhexina Clorhidrato",
-        "Clenbuterol Hcl",
-        "Dextrometorfan Bromhidrato"
-      ]
-    },
-    {
-      "familia": "QUINOLONAS",
-      "productos": [
-        "Acido Nalidixico",
-        "Ciprofloxacina Clorhidrato",
-        "Enrofloxacina",
-        "Flumequina",
-        "Norfloxacina",
-        "Acido Pipemidico",
-        "Ciprofloxacina Lactato",
-        "Ofloxacina",
-        "Pefloxacina"
-      ]
-    },
-    {
-      "familia": "GASTROINTESTINALES",
-      "productos": [
-        "Cimetidina",
-        "Famotidina",
-        "Lanzoprazol",
-        "Omeprazol Pellets",
-        "Omeprazol Sódico",
-        "Pantoprazol",
-        "Ranitidina Clorhidrato"
-      ]
-    },
-    {
-      "familia": "HORMONALES",
-      "productos": [
-        "Alfa Metiltosterona",
-        "Benzoato de Estradiol",
-        "Boldenona Undecileanato",
-        "Cipionato de Es tradiol",
-        "Clostebol Acetato",
-        "Danazol",
-        "Dehidropiandrosterona",
-        "Oximetalona Base",
-        "Progesterona",
-        "Testoterona Cipionato",
-        "Testoterona Enantato",
-        "Testosterona Propianato"
-      ]
-    },
-    {
-      "familia": "MACROLIDOS",
-      "productos": [
-        "Claritromicina",
-        "Eritromicina Estearato",
-        "Eritromicina Estolato",
-        "Eritromicina Tiocianato",
-        "Esparmicida Adipato",
-        "Tilosina Fostato",
-        "Tilosina Tartrato",
-        "Virginiamicina"
-      ]
-    },
-    {
-      "familia": "ONCOLÓGICOS",
-      "productos": [
-        "Carboplatino",
-        "Cisplatino",
-        "Doxorubicina Clorhidrato",
-        "Epirubicin",
-        "Etoposido",
-        "Mesna",
-        "Metotrexato",
-        "Mitoxantrona Clorhidrato",
-        "5-Fluoruracilo",
-        "Tamoxifeno Citrato",
-        "Vincristina"
-      ]
-    },
-    {
-      "familia": "SULFONAMIDAS",
-      "productos": [
-        "Ftalilsulfatiazol",
-        "Sulfacroropiridazina Sódica",
-        "Sulfadiazina Base",
-        "Sulfadiazina Sódica",
-        "Sulfadimidina Base",
-        "Sulfadimidina Sódica",
-        "Sulfadoxina",
-        "Sulfafenazol",
-        "Sulfaguanidina",
-        "Sulfamerazina Sódica",
-        "Sulfamerazina Base",
-        "Sulfametoxazol",
-        "Sulfanilamida",
-        "Sulfapiridina",
-        "Sulfaquinoxalina Base",
-        "Sulfaquinoxalina Sódica",
-        "Sulfatiasol Base",
-        "Sulatiazol Sódico"
-      ]
-    },
-    {
-      "familia": "TETRACICLINAS",
-      "productos": [
-        "Clortetraciclina Clorhidrato",
-        "Cloxacilina Sódica",
-        "Doxiciclina Clorhidrato",
-        "Oxitetraciclina Base",
-        "Tetraciclina Clorhidrato",
-        "Tetraciclina Base"
-      ]
-    },
-    {
-      "familia": "VITAMINAS",
-      "productos": [
-        "Acido Folico",
-        "Betacarotenos",
-        "Biotina",
-        "D-Pantotenato de Calcio",
-        "Nicotinamida",
-        "Palmitato de Ascorbilo",
-        "Vitamina A acetato",
-        "Vitamina A Palmitato",
-        "Vitamina A Propionato",
-        "Vitamina B1 mononitrato",
-        "Vitamina B1 Hcl",
-        "Vitamina B12 Cianocobalamina",
-        "Vitamina B12 Hidroxocobalamina",
-        "Vitamina B2 Riboflavina 5 fosfato de sodio",
-        "Vitamina B2 Riboflavina USP",
-        "Vitamina B6 Piridoxina Hcl",
-        "Vitamina C recubierta",
-        "Vitamina C Universal",
-        "Vitamina D2",
-        "Vitamina D3",
-        "Vitamina E",
-        "Vitamina K3"
-      ]
-    },
-    {
-      "familia": "ADITIVOS PARA ALIMENTOS",
-      "productos": [
-        "Acido Benzoico",
-        "Acido Cítrico",
-        "Acido Glutámico D",
-        "Acido Glutámico L",
-        "Acido Láctico",
-        "Acido Sorbico",
-        "B-D-Tetraacetylribose",
-        "Creatina Monohidrato",
-        "Dextrose Anh",
-        "DL-Malix Acid",
-        "Glucosamina Hcl",
-        "Glucose",
-        "Glutamato de Sodio",
-        "Inositol",
-        "Lactosa",
-        "L-Clebopride",
-        "L-Cysteine Hcl",
-        "L-Isoleucine",
-        "L-Lisina",
-        "L-Metoina",
-        "L-Triptofano",
-        "L-Leusina",
-        "L-Alanina",
-        "L-Treonina",
-        "Pantonetato de calcio D(+)",
-        "Pantonetato de calcio DL",
-        "Parafina Wax",
-        "Sorbato de Potasio",
-        "Tataric Acid",
-        "Vaselina"
-      ]
-    },
-    {
-      "familia": "OTROS PRODUCTOS",
-      "productos": [
-        "Coenzimas Q-10",
-        "Colchicina",
-        "Psyllium Plantago",
-        "Sulfadiazina de Plata",
-        "Violeta de Genciana (metil-rosanilina)",
-        "Yodato de Potasio",
-        "Yodo en escamas",
-        "Yodo Perlado",
-        "Yodoclorohidroxiquinoleina",
-        "Yoduro de Potasio"
-      ]
-    }
-  ]
-}
-
-
-
+[
+  {
+    "familia": "ANTIPROTOZOARIOS",
+    "productos": [
+      "3-5 Dinitro ortotulaumida (DOT)",
+      "Amprolium clorhidrato",
+      "Benzoil metronidazol",
+      "Clopidol",
+      "Dimetridazol Base",
+      "Diminazem Dia ceturato",
+      "Diyodohidroxiquinoleina",
+      "Furazolidona",
+      "Metronidazol",
+      "Nicarbazina",
+      "Robenidina Clorhidrato"
+    ]
+  },
+  {
+    "familia": "AMINOGLUCOSIDOS",
+    "productos": [
+      "Dihidroestreptomicina",
+      "Sulfato estéril",
+      "Espectinomicina",
+      "Espectinomicina sulfato estéril",
+      "Gentamicina sulfato estéril",
+      "Kanamicina monosulfato oral",
+      "Neomicina sulfato oral"
+    ]
+  },
+  {
+    "familia": "ANALGÉSICOS",
+    "productos": [
+      "Acido Acetilsalicilico",
+      "Bumadizona Cálcica",
+      "Diclofenaco Dietilamonio",
+      "Diclofenaco Potásico",
+      "Diclofenaco Sódico",
+      "Dipirona Sódica",
+      "Fenil-butasona base",
+      "Ibuprofeno",
+      "Ketoprofeno",
+      "Ketorolaco Thrometamine",
+      "Meloxicam",
+      "Naproxeno base",
+      "Naproxeno sódio",
+      "N-Butilbromuro de hiosina",
+      "Paracetamol polvo",
+      "Paracetamol CD 90",
+      "Tramadol"
+    ]
+  },
+  {
+    "familia": "ANTIASMÁTICOS",
+    "productos": [
+      "Fenoterol",
+      "Salbumatol sulfato"
+    ]
+  },
+  {
+    "familia": "ANTIBACTERIANOS",
+    "productos": [
+      "Cloramfenicol hemisuccinato ácido",
+      "Cloramfenicol palmitato",
+      "Florfenicol",
+      "Tlamfenicol"
+    ]
+  },
+  {
+    "familia": "ANTIBIÓTICOS",
+    "productos": [
+      "Amikacina Sulfato estéril",
+      "Amoxiclina Trihidratada",
+      "Ampicilina Sódica",
+      "Ampicilina Trihidratada",
+      "Cloxacilina",
+      "Dicloacilina",
+      "Doxiciclina Iclato",
+      "Fosfomicinas",
+      "Lincomicina Clorhidrato",
+      "Penicilina G Potasica",
+      "Penicilina G Procaina",
+      "Penicilina G Sodica"
+    ]
+  },
+  {
+    "familia": "ANTIDIABÉTICOS",
+    "productos": [
+      "Clorpropamida",
+      "Glibenclamida",
+      "Glicazide",
+      "Glipzida",
+      "Metformin Clorhidrato",
+      "Tolbutamida"
+    ]
+  },
+  {
+    "familia": "ANTIFUNGICOS",
+    "productos": [
+      "Crotimazol",
+      "Fluconazol",
+      "Itraconazol",
+      "Ketoconazol",
+      "Tolnaftato"
+    ]
+  },
+  {
+    "familia": "ATIHELMINTICOS",
+    "productos": [
+      "Abamectina",
+      "Albendazol",
+      "Closantel Sódico",
+      "Fenbendazol",
+      "Ivermectina",
+      "Levamisol base",
+      "Levamisol clorhidrato",
+      "Levamisol fosfato",
+      "Mebendazol",
+      "Oxfendazol",
+      "Oxibendazol",
+      "Praziquantel",
+      "Quinfamida",
+      "Triciabendazol"
+    ]
+  },
+  {
+    "familia": "ANTIMETABOLICOS",
+    "productos": [
+      "Alopurinol"
+    ]
+  },
+  {
+    "familia": "ANTITUBERCULOSOS",
+    "productos": [
+      "Etambutol Hcl",
+      "Isoniazida",
+      "Pirazidamida",
+      "Rifampicina"
+    ]
+  },
+  {
+    "familia": "ANTITUSIVOS",
+    "productos": [
+      "Benzonatato"
+    ]
+  },
+  {
+    "familia": "ANTIVIRALES",
+    "productos": [
+      "Aciclovir",
+      "Indinavir",
+      "Lamivudina",
+      "Ritonavir",
+      "Sequinavir",
+      "Zidovudina"
+    ]
+  },
+  {
+    "familia": "CARDIOVASCULARES",
+    "productos": [
+      "Alfa-metildopa",
+      "Captorpil",
+      "Diltiazem",
+      "Enalapril Maleato",
+      "Lisinopril",
+      "Nifedipino",
+      "Pentoxifilina",
+      "Verapamilo Hcl"
+    ]
+  },
+  {
+    "familia": "CEFALOSPORINAS",
+    "productos": [
+      "Cefaclor",
+      "Cefadroxil",
+      "Cefalexina Monohidrato",
+      "Cefixima",
+      "Cefotaxima Ácida",
+      "Cefotaxima Sódica",
+      "Ceftazidima",
+      "Ceftlofur Clorhidrato",
+      "Ceftlofur Sódico",
+      "Ceftriaxona Sódica"
+    ]
+  },
+  {
+    "familia": "CORTICOESTEROIDES",
+    "productos": [
+      "Betametasona Dipropionato",
+      "Betametasona Valerato",
+      "Dexametasona Sódica",
+      "Hidrocortisona Acetato",
+      "Hidrocortisona Succinato",
+      "Prednisona Base"
+    ]
+  },
+  {
+    "familia": "EXPECTORANTES",
+    "productos": [
+      "Ambroxol Clorhidrato",
+      "Bromhexina Clorhidrato",
+      "Clenbuterol Hcl",
+      "Dextrometorfan Bromhidrato"
+    ]
+  },
+  {
+    "familia": "QUINOLONAS",
+    "productos": [
+      "Acido Nalidixico",
+      "Ciprofloxacina Clorhidrato",
+      "Enrofloxacina",
+      "Flumequina",
+      "Norfloxacina",
+      "Acido Pipemidico",
+      "Ciprofloxacina Lactato",
+      "Ofloxacina",
+      "Pefloxacina"
+    ]
+  },
+  {
+    "familia": "GASTROINTESTINALES",
+    "productos": [
+      "Cimetidina",
+      "Famotidina",
+      "Lanzoprazol",
+      "Omeprazol Pellets",
+      "Omeprazol Sódico",
+      "Pantoprazol",
+      "Ranitidina Clorhidrato"
+    ]
+  },
+  {
+    "familia": "HORMONALES",
+    "productos": [
+      "Alfa Metiltosterona",
+      "Benzoato de Estradiol",
+      "Boldenona Undecileanato",
+      "Cipionato de Es tradiol",
+      "Clostebol Acetato",
+      "Danazol",
+      "Dehidropiandrosterona",
+      "Oximetalona Base",
+      "Progesterona",
+      "Testoterona Cipionato",
+      "Testoterona Enantato",
+      "Testosterona Propianato"
+    ]
+  },
+  {
+    "familia": "MACROLIDOS",
+    "productos": [
+      "Claritromicina",
+      "Eritromicina Estearato",
+      "Eritromicina Estolato",
+      "Eritromicina Tiocianato",
+      "Esparmicida Adipato",
+      "Tilosina Fostato",
+      "Tilosina Tartrato",
+      "Virginiamicina"
+    ]
+  },
+  {
+    "familia": "ONCOLÓGICOS",
+    "productos": [
+      "Carboplatino",
+      "Cisplatino",
+      "Doxorubicina Clorhidrato",
+      "Epirubicin",
+      "Etoposido",
+      "Mesna",
+      "Metotrexato",
+      "Mitoxantrona Clorhidrato",
+      "5-Fluoruracilo",
+      "Tamoxifeno Citrato",
+      "Vincristina"
+    ]
+  },
+  {
+    "familia": "SULFONAMIDAS",
+    "productos": [
+      "Ftalilsulfatiazol",
+      "Sulfacroropiridazina Sódica",
+      "Sulfadiazina Base",
+      "Sulfadiazina Sódica",
+      "Sulfadimidina Base",
+      "Sulfadimidina Sódica",
+      "Sulfadoxina",
+      "Sulfafenazol",
+      "Sulfaguanidina",
+      "Sulfamerazina Sódica",
+      "Sulfamerazina Base",
+      "Sulfametoxazol",
+      "Sulfanilamida",
+      "Sulfapiridina",
+      "Sulfaquinoxalina Base",
+      "Sulfaquinoxalina Sódica",
+      "Sulfatiasol Base",
+      "Sulatiazol Sódico"
+    ]
+  },
+  {
+    "familia": "TETRACICLINAS",
+    "productos": [
+      "Clortetraciclina Clorhidrato",
+      "Cloxacilina Sódica",
+      "Doxiciclina Clorhidrato",
+      "Oxitetraciclina Base",
+      "Tetraciclina Clorhidrato",
+      "Tetraciclina Base"
+    ]
+  },
+  {
+    "familia": "VITAMINAS",
+    "productos": [
+      "Acido Folico",
+      "Betacarotenos",
+      "Biotina",
+      "D-Pantotenato de Calcio",
+      "Nicotinamida",
+      "Palmitato de Ascorbilo",
+      "Vitamina A acetato",
+      "Vitamina A Palmitato",
+      "Vitamina A Propionato",
+      "Vitamina B1 mononitrato",
+      "Vitamina B1 Hcl",
+      "Vitamina B12 Cianocobalamina",
+      "Vitamina B12 Hidroxocobalamina",
+      "Vitamina B2 Riboflavina 5 fosfato de sodio",
+      "Vitamina B2 Riboflavina USP",
+      "Vitamina B6 Piridoxina Hcl",
+      "Vitamina C recubierta",
+      "Vitamina C Universal",
+      "Vitamina D2",
+      "Vitamina D3",
+      "Vitamina E",
+      "Vitamina K3"
+    ]
+  },
+  {
+    "familia": "ADITIVOS PARA ALIMENTOS",
+    "productos": [
+      "Acido Benzoico",
+      "Acido Cítrico",
+      "Acido Glutámico D",
+      "Acido Glutámico L",
+      "Acido Láctico",
+      "Acido Sorbico",
+      "B-D-Tetraacetylribose",
+      "Creatina Monohidrato",
+      "Dextrose Anh",
+      "DL-Malix Acid",
+      "Glucosamina Hcl",
+      "Glucose",
+      "Glutamato de Sodio",
+      "Inositol",
+      "Lactosa",
+      "L-Clebopride",
+      "L-Cysteine Hcl",
+      "L-Isoleucine",
+      "L-Lisina",
+      "L-Metoina",
+      "L-Triptofano",
+      "L-Leusina",
+      "L-Alanina",
+      "L-Treonina",
+      "Pantonetato de calcio D(+)",
+      "Pantonetato de calcio DL",
+      "Parafina Wax",
+      "Sorbato de Potasio",
+      "Tataric Acid",
+      "Vaselina"
+    ]
+  },
+  {
+    "familia": "OTROS PRODUCTOS",
+    "productos": [
+      "Coenzimas Q-10",
+      "Colchicina",
+      "Psyllium Plantago",
+      "Sulfadiazina de Plata",
+      "Violeta de Genciana (metil-rosanilina)",
+      "Yodato de Potasio",
+      "Yodo en escamas",
+      "Yodo Perlado",
+      "Yodoclorohidroxiquinoleina",
+      "Yoduro de Potasio"
+    ]
+  }
+]

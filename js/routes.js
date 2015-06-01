@@ -10,6 +10,20 @@ angular.module('FarkCorp')
             '/quienessomos', {
                 templateUrl: 'templates/quienessomos.html'
             }
-        )
+        ).when(
+            '/catalogo', {
+                templateUrl: 'templates/catalogo.html',
+                controller: 'CatalogController',
+                controllerAs: 'CatalogCtrl'
+            }
+        ).when(
+            '/contacto',{
+                templateUrl: 'templates/contacto.html'
+            }
+        ).otherwise(
+            {
+                redirectTo: '/inicio'
+            }
+        );
     }
 );
