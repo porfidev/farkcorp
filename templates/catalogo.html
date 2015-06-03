@@ -1,21 +1,30 @@
 <div class="contenido container">
     <div class="row">
-        <div class="col-sm-3">
+        <div class="col-sm-8 col-sm-offset-2">
             <!--<img src="img/h_productos.png" width="180" height="36" />-->
             <h2>Productos</h2>
-            <ul class="nav nav-pills nav-stacked">
-                <li role="presentation" ng-repeat="(index, catalogo) in CatalogCtrl.catalos">
-                    <a href="" ng-click="CatalogCtrl.select(index)">
-                        {{catalogo.familia}}
+            <ul class="nav nav-tabs">
+                <li role="presentation" class="dropdown">
+                    <a class="dropdown-toggle" data-toggle="dropdown" href="" role="button" aria-expanded="false">
+                        Elija una familia de productos <span class="caret"></span>
                     </a>
+                    <ul class="dropdown-menu" role="menu" style="height: 300px; overflow: auto;">
+                        <li role="presentation" ng-repeat="(index, catalogo) in CatalogCtrl.catalos">
+                            <a href="" ng-click="CatalogCtrl.select(index)">
+                                {{catalogo.familia}}
+                            </a>
 
+                        </li>
+                    </ul>
                 </li>
             </ul>
         </div>
-        <div class="col-sm-9">
+    </div>
+    <div class="row">
+        <div class="col-sm-8 col-sm-offset-2">
             <h2>{{CatalogCtrl.selected.title}}</h2>
-            <ul>
-                <li ng-repeat="producto in CatalogCtrl.selected">
+            <ul class="list group">
+                <li class="list-group-item" ng-repeat="producto in CatalogCtrl.selected">
                     {{producto}}
                 </li>
             </ul>

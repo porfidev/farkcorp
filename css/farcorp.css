@@ -1,11 +1,12 @@
 .contenido {
     margin-top: 40px;
+    margin-bottom: 180px;
 }
 
 /* Menu Colors
 --------------------------------------------------*/
 .navegacion.navbar-nav > li > a{
-    margin-top: 20px;
+    /*margin-top: 20px;*/
     color: #115AC1;
     font-size: 1.3em;
     text-shadow: 0px 0px 2px rgba(7, 35, 146, 0.4);
@@ -14,7 +15,7 @@
 .main {
     /*background-color: blue;*/
     height: 300px;
-    margin-top: 80px;
+    margin-top: 60px;
     background: url('../img/chemicals.jpg');
     background-size: 100%;
     background-repeat: no-repeat;
@@ -36,7 +37,7 @@ body {
     bottom: 0;
     width: 100%;
     /* Set the fixed height of the footer here */
-    height: 60px;
+    height: 160px;
     background-color: #f5f5f5;
 }
 
