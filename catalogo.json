@@ -59,7 +59,7 @@
       "Cloramfenicol Hemisuccinato Ácido",
       "Cloramfenicol Palmitato",
       "Florfenicol",
-      "Tlamfenicol"
+      "Tiamfenicol"
     ]
   },
   {
@@ -84,9 +84,9 @@
       "Cloropropamida",
       "Glibenclamida",
       "Glicazide",
-      "Glipzida",
+      "Glipizida",
       "Metformina Clorhidrato",
-      "Tolobutamida"
+      "Tolbutamida"
     ]
   },
   {
@@ -95,6 +95,7 @@
       "Clotimazol",
       "Fluconazol",
       "Itraconazol",
+      "Itraconazol Pellets",
       "Ketoconazol"
     ]
   },
@@ -127,7 +128,7 @@
       "Etambutol HCl",
       "Isoniazida",
       "Pirazinamida",
-      "Rafampicina"
+      "Rifampicina"
     ]
   },
   {
@@ -230,15 +231,15 @@
       "Alfa Metiltosterona",
       "Benzoato de Estradiol",
       "Boldenona Undecileanato",
-      "Cipionato de Es tradiol",
+      "Cipionato de estradiol",
       "Clostebol Acetato",
       "Danazol",
-      "Dehidropiandrosterona",
+      "Dehidroepiandrosterona",
       "Oximetalona Base",
       "Progesterona",
       "Testoterona Cipionato",
       "Testoterona Enantato",
-      "Testosterona Propianato"
+      "Testosterona Propionato"
     ]
   },
   {
@@ -265,7 +266,7 @@
       "Mesna",
       "Metotrexato",
       "Mitoxantrona Clorhidrato",
-      "5-Fluoruracilo",
+      "5-Fluorouracilo",
       "Tamoxifeno Citrato",
       "Vincristina"
     ]

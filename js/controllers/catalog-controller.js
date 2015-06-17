@@ -10,6 +10,8 @@ angular.module('FarkCorp')
 
             ctrl.catalos = null;
             ctrl.selected = null;
+            ctrl.collecion = null;
+
             ctrl.renderMenu = function(){
                 ctrl.catalos = Catalog.getFileCatalog('catalogo.json');
                 ctrl.catalos.success(function(data, status, headers, config){
@@ -17,6 +19,8 @@ angular.module('FarkCorp')
                     console.info(ctrl.catalos);
                     ctrl.selected = ctrl.catalos[0].productos;
                     ctrl.selected.title = ctrl.catalos[0].familia;
+
+                    ctrl.collecion = ctrl.catalos;
                 }).error(function(data, status, headers, config){
                     console.error(data);
                     console.error(status);
